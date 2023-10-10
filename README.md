@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 #### Professional Frontend Developer
-![Professional Frontend Developer](https://i.ibb.co/RC6cwm8/Git-Hub-Banner.png)
+![Professional Frontend Developer](https://i.ibb.co/SrbCPWY/Git-Hub-Banner.png)
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
