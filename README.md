@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I am Md. Omar Faruq
 
 <!--
 **OmarFaruq967/OmarFaruq967** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi there 👋, I am Md. Omar Faruq
+
 #### Professional Frontend Developer
 ![Professional Frontend Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
