@@ -30,9 +30,26 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 
 - 🔭 I’m currently working on [FlexCode](https://flex-code-6541d.web.app/)
 
+<!-- 
+<details>
+  <summary style="&bg_color=30,001623,016197">Languages & Frameworks ⏳</summary>
+
+  <p align="center">
+    <img title="HTML 5" alt="html5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+    <img title="JavaScript" alt="javascript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+    <img title="Python" alt="python" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+    <img title="CSS 3" alt="css 3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+    <img title="C" alt="linguagem c" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+    <img title="ReactJS" alt="react js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+    <img title="NodeJS" alt="node js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+    <img title="Next.js" alt="next.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+  </p>
+</details>
+-->
+
 
 ## GitHub Stats: 📰
-<div>
+<div bg_color=30,001623,016197>
   <img src="https://github-readme-stats.vercel.app/api?username=OmarFaruq967&show_icons=true&bg_color=30,001623,016197&title_color=fff&text_color=fff&hide_border=true" style="width: 61%;" alt="Imam Hossain" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmarFaruq967&show_icons=true&bg_color=30,016197,001623&title_color=fff&text_color=fff&hide_border=true" style="width: 37%;" alt="Imam Hossain" />
 </div>
