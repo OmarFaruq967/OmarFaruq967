@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<div>
+  <img src="https://i.ibb.co/z5JmJj9/download.gif" style="width: 1200px" alt="Wellcome to my profile" />
+</div>
 #### Professional Frontend Developer
 ![Professional Frontend Developer](https://i.ibb.co/25pmHfW/Github-Banner-22.png)
 
