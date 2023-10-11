@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ![Professional Frontend Developer](https://i.ibb.co/25pmHfW/Github-Banner-22.png)
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+👨‍💻 MARN-Stack Dev | Expert in React, Node, Express, and MongoDB | Creating web magic with clean code and seamless user experiences.
 
 ## Skills: 👨‍💻
 **`Expertise:`** HTML5 | CSS3 | JavaScript ES6 | Bootstrap | Tailwind CSS | DaisyUI | Firebase Authentication | MongoDB | React.js | React Router</br>
