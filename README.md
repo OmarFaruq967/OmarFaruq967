@@ -1,5 +1,3 @@
-### Hi there 👋 I am Md. Omar Faruq
-
 <!--
 **OmarFaruq967/OmarFaruq967** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,30 +16,37 @@ Here are some ideas to get you started:
   <img src="https://i.ibb.co/z5JmJj9/download.gif" style="width: 1200px" alt="Wellcome to my profile" />
 </div>
 
-#### Professional Frontend Developer
+
 ![Professional Frontend Developer](https://i.ibb.co/25pmHfW/Github-Banner-22.png)
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
-Skills: HTML  / CSS / JS / REACT / NODE JS 
+## Skills: 👨‍💻
+**`Expertise:`** HTML5 | CSS3 | JavaScript ES6 | Bootstrap | Tailwind CSS | DaisyUI | Firebase Authentication | MongoDB | React.js | React Router</br>
+**`Comfortable:`** ExpressJS | Rest APIs | JWT</br>
+**`Familiar:`** Node | Stripe | PHP</br>
+**`Tools:`** VS Code | Netlify | Vercel | Firebase | Dotenv | Figma | Photoshop</br>
+**`Extra Skills:`** WordPress | Elementor | Divi Builder | WooCommerce | Tutor LMS</br>
 
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m currently working on [FlexCode](https://flex-code-6541d.web.app/)
 
 
-[<img src='https://i.ibb.co/RC6cwm8/Git-Hub-Banner.png' alt='github' height='40'>](https://github.com/OmarFaruq967)  
+## GitHub Stats: 📰
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=OmarFaruq967&show_icons=true&bg_color=30,001623,016197&title_color=fff&text_color=fff&hide_border=true" style="width: 61%;" alt="Imam Hossain" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmarFaruq967&show_icons=true&bg_color=30,016197,001623&title_color=fff&text_color=fff&hide_border=true" style="width: 37%;" alt="Imam Hossain" />
+</div>
+<div>
+  <img src="https://streak-stats.demolab.com?user=OmarFaruq967&theme=react&hide_border=true" style="width: 55%;" alt="Imam Hossain" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=OmarFaruq967&limit=5&bg_color=30,001623,016197&title_color=fff&text_color=fff&combine_all_yearly_contributions=true&line=7F3FBF&hide_border=true" style="width: 44%;" alt="Imam Hossain" />
+</div>
+<div>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OmarFaruq967&custom_title=Imam%20Hossain%20Shadin's%20GitHub%20Activity%20Graph&bg_color=001623&color=fff&line=fff&point=fff&area_color=DAFFFB&title_color=FFFFFF&area=true&height=500&radius=5&hide_border=true" alt="Imam Hossain" />
+</div>
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+## GitHub Trophies: 🏆
+<div>
+  <img src="https://github-profile-trophy.vercel.app/?username=OmarFaruq967&theme=nord&column=6&margin-w=15&margin-h=15" style="width: 1200px" alt="Trophies" />
+</div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=OmarFaruq967)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OmarFaruq967)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=OmarFaruq967&show_icons=true&count_private=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=OmarFaruq967)  
-
-![GitHub metrics](https://metrics.lecoq.io/OmarFaruq967)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=OmarFaruq967)  
-
-![Profile views](https://gpvc.arturio.dev/OmarFaruq967)  
