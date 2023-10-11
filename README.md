@@ -24,8 +24,8 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 ## Skills: 👨‍💻
 **`Expertise:`** HTML5 | CSS3 | JavaScript ES6 | Bootstrap | Tailwind CSS | DaisyUI | Firebase Authentication | MongoDB | React.js | React Router</br>
 **`Comfortable:`** ExpressJS | Rest APIs | JWT</br>
-**`Familiar:`** Node | Stripe | PHP</br>
-**`Tools:`** VS Code | Netlify | Vercel | Firebase | Dotenv | Figma | Photoshop</br>
+**`Familiar:`** Node | Stripe | </br>
+**`Tools:`** VS Code | Netlify | Vercel | Firebase | Dotenv | Photoshop</br>
 **`Extra Skills:`** WordPress | Elementor | Divi Builder | WooCommerce | Tutor LMS</br>
 
 - 🔭 I’m currently working on [FlexCode](https://flex-code-6541d.web.app/)
