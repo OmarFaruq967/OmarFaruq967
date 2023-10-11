@@ -45,8 +45,6 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 </div>
 
 ## GitHub Trophies: 🏆
-<div>
-  <img src="https://github-profile-trophy.vercel.app/?username=OmarFaruq967&theme=nord&column=6&margin-w=15&margin-h=15" style="width: 1200px" alt="Trophies" />
-</div>
+[![trophy](https://github-profile-trophy.vercel.app/?username=OmarFaruq967&row=1&margin-w=40)](https://github.com/ryo-ma/github-profile-trophy)
 
 
