@@ -50,15 +50,15 @@ Here are some ideas to get you started:
 
 ## GitHub Stats: 📰
 <div bg_color=30,001623,016197>
-  <img src="https://github-readme-stats.vercel.app/api?username=OmarFaruq967&show_icons=true&bg_color=30,001623,016197&title_color=fff&text_color=fff&hide_border=true" style="width: 61%;" alt="Imam Hossain" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmarFaruq967&show_icons=true&bg_color=30,016197,001623&title_color=fff&text_color=fff&hide_border=true" style="width: 37%;" alt="Imam Hossain" />
+  <img src="https://github-readme-stats.vercel.app/api?username=OmarFaruq967&show_icons=true&bg_color=30,001623,016197&title_color=fff&text_color=fff&hide_border=true" style="width: 61%;" alt="Omar Faruq" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmarFaruq967&show_icons=true&bg_color=30,016197,001623&title_color=fff&text_color=fff&hide_border=true" style="width: 37%;" alt="Omar Faruq" />
 </div>
 <div>
-  <img src="https://streak-stats.demolab.com?user=OmarFaruq967&theme=react&hide_border=true" style="width: 55%;" alt="Imam Hossain" />
-  <img src="https://github-contributor-stats.vercel.app/api?username=OmarFaruq967&limit=5&bg_color=30,001623,016197&title_color=fff&text_color=fff&combine_all_yearly_contributions=true&line=7F3FBF&hide_border=true" style="width: 44%;" alt="Imam Hossain" />
+  <img src="https://streak-stats.demolab.com?user=OmarFaruq967&theme=react&hide_border=true" style="width: 55%;" alt="Omar Faruq" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=OmarFaruq967&limit=5&bg_color=30,001623,016197&title_color=fff&text_color=fff&combine_all_yearly_contributions=true&line=7F3FBF&hide_border=true" style="width: 44%;" alt="Omar Faruq" />
 </div>
 <div>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OmarFaruq967&custom_title=Imam%20Hossain%20Shadin's%20GitHub%20Activity%20Graph&bg_color=001623&color=fff&line=fff&point=fff&area_color=DAFFFB&title_color=FFFFFF&area=true&height=500&radius=5&hide_border=true" alt="Imam Hossain" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OmarFaruq967&custom_title=Imam%20Hossain%20Shadin's%20GitHub%20Activity%20Graph&bg_color=001623&color=fff&line=fff&point=fff&area_color=DAFFFB&title_color=FFFFFF&area=true&height=500&radius=5&hide_border=true" alt="Omar Faruq" />
 </div>
 
 ## GitHub Trophies: 🏆
